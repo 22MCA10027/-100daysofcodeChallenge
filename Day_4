@@ -1,0 +1,12 @@
+import java.util.Scanner;
+class LengthofStr
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Enter a String");
+        Scanner sc=new Scanner(System.in);
+        String s=sc.next();
+       // int a=s.length();
+        System.out.println("The length of the String is :"+s.length());
+    }
+}
