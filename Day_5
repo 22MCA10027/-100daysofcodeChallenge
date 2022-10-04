@@ -1,0 +1,21 @@
+//Java Program to find the area of the Rectangle
+class Rect
+{
+    int l,b;
+    void getdata(int l1,int b1)
+    {
+        l=l1;
+        b=b1;
+    }
+}
+class Rectangle
+{
+    public static void main(String[] args)
+    {
+        int area;
+        Rect r1=new Rect();
+        r1.getdata(66,99);
+        area=r1.l*r1.b;
+        System.out.println("Area of the Rectangle is :"+area);
+    }
+}
