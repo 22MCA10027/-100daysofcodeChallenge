@@ -1,0 +1,42 @@
+//Java Program to find the Area of a Rectangle by using Constructor
+class Rectangle
+{
+    int length,width;
+    Rectangle(int l,int w)
+    {
+        length = l;
+        width = w;
+    }
+    int rectArea()
+    {
+        return(length*width);
+    }
+}
+class Constructor
+{
+    public static void main(String[] args)
+    {
+        Rectangle r = new Rectangle(6,4);
+        int area=r.rectArea();
+        System.out.println("The Area of a Rectangle is :"+area);
+    }
+}
+
+Problem : 
+We have to findout Area of a rectangle.
+Explanation : 
+Actually there are so many ways to find out area of a rectangle.
+ Now, I am using Constructor method to findout area of a rectangle.
+ in which class name is same as method name.
+ we know that Area of a Rectangle is Length*Width.
+ here, I am taking two variables length and width as Instance Variables and with parameters l,w.
+ Input :
+         Length=6,Width=4
+ Output :
+         24
+ TestCases :
+ Actually there are three possible TestCases as follows
+ 1.we can input Two Positive Values(6,4) and then the Output will be 24
+ 2.we can input Two Negative values (-6,-4) and then the  Output will be 24
+ 3.we may input One Positive and One Negative Value (6,-4) and then the Output will be -24 
+ 
