@@ -1,0 +1,51 @@
+//Constructor Overloading
+class StuConstructor 
+{
+    //Instance Variables of the class 
+    int id;
+    String name;
+    StuConstructor()
+    {
+        System.out.println("This is a Default Constructor");
+    }
+    StuConstructor(int i,String n)
+    {
+        id = i;
+        name = n;
+    }
+    void display()
+    {
+        System.out.println("The student number is "+id);
+        System.out.println("The student name is "+name);
+    }
+}
+class Student
+{
+    public static void main(String[] args)
+    {
+        //Object Creation
+        StuConstructor std = new StuConstructor();
+        StuConstructor s=new StuConstructor(27,"Hari Krishna");
+        s.display();
+    }
+}
+
+Problem :
+  To display Student ID and Student Name by using a Constuctor.
+ Solution :
+  Constructor Overloading is nothing but a defining a constuctor with multiple constructors within the same class but with different parameters.
+  here I am deining a Default Constructor as well as Parameterized Constructor.
+  now I am declaring two instance variables id and name in the class.
+  and I have created a default constructor to display it is a default constructor.
+  I have created a StudentConstructor and intialized Instance variable with i and n and I have used display method to display parameters inside the StuConstructor.
+  I have created a main class Student and then I have created two objects for Default Constructor and ParameteriZed Constructor.
+  I have declared parameters in the parameterized constructor and I have called the method with the Object.
+  Testcases :
+  1.while intializing the parameterised constructor if we can put float instead of int that will arise an error.
+  2.If we can pass decimal values instead of integer values then there will be an Error.
+  Input : 27,Hari Krishna
+  Output : 27,Hari Krishna
+  Input 2 : 27.5,Hari Krishna
+  Out Put 2: Error
+  
+  
