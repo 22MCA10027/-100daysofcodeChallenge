@@ -1,0 +1,56 @@
+import java.util.Scanner;
+class Palindrome
+{
+    public static void main(String[] args)
+    {
+        int num;
+        int rev=0;
+        int rem;
+        System.out.println("Enter a Number");
+        Scanner sc = new Scanner(System.in);
+        num=sc.nextInt();
+        int temp=num;
+        while (temp>0)
+        {
+          rem = temp%10;
+          rev= (rev*10)+rem;
+          temp=temp/10;
+        }
+        
+        System.out.println("reversed number is "+rev);
+        if(rev==num)
+        {
+            System.out.println("The number what you have entered is a palindrome");
+        }
+        else
+        {
+            System.out.println("The number what you have entered is not a palindrome");
+        }
+        
+    }
+}
+
+Problem :
+ To find the given number is a palindrome or not.
+ Solution :
+ I have taken the variables num, rem and intialized rev=0
+ and i have take the input from the user.
+ i have reversed the number what he was entered and displayed .
+ and then if the number entered by user is equal to the reverse number then it will be a palindrome.
+ otherwise the user entered not a palindrome
+ input : 
+ 121
+ output :
+ palindrome
+ input :
+ 143
+ output-2 : 
+ not a palindrome
+ input-3 :
+ abc
+ output :
+ error
+ Testcases :
+ 1. user entered a palindrome (1991)
+ 2. user entered not a palindrome (123456)
+ 3. user entered a string then there will be an error . (Hari)
