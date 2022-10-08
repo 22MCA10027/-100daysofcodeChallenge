@@ -1,0 +1,59 @@
+//inheritance
+class A
+{
+    int i;
+    int j;
+    void show()
+    {
+        System.out.println("i and j "+i+" "+j);
+    }
+}
+class B extends A
+{
+    int k;
+    void showk()
+    {
+        System.out.println("k is "+k);
+    }
+    void sum()
+    {
+        System.out.println("i+j is "+(i+j));
+    }
+}
+class Inheritance
+{
+    public static void main(String[] args)
+    {
+        A a1 = new A();
+        B b1 = new B();
+        a1.i=10; //Error of private
+        a1.j=20;
+        a1.show();
+        b1.show();
+        b1.j=30;
+        b1.k=45;
+        b1.showk();
+        b1.sum();
+    } 
+}
+
+Problem :
+java program to implement the Inheritance
+Solution :
+I have declared two variables i and j in the class A.
+and I have used show method to display i and j values.
+I have created a class B and I have used "extends" keyword to inherit the properties of class B.
+I have declared a variable k and have used showk method to display k.
+again i have used an other method "sum" to add the variables i and j
+and then I have created a main class named "Inheritance" and created two objects a1 and b1 to call the methods in the classes A and B.
+
+Test Cases :
+ 1.In the inheritance subclass can be inherit the properties of superclass
+ 2.and Superclass can't be inherit the properties of subclass.
+ 
+ Input :
+ i = 10
+ j = 20
+ Output :
+ sum(i+j) = 30
+
