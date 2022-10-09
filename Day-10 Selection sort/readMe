@@ -1,0 +1,18 @@
+SelectionSort :
+I have created a class named SelectionSort and i have defined arr[] in the sort method
+ i have intialized for loop for to find the minimum element in the unsorted subarray
+ in the array smallest element will be replaced with the proper position in case  of ascending order
+ I have used a temp variable for the purpose
+ i have used a Printarray method to display the array elements
+ I have created a main class named SelectionSorting 
+ and I have created an object for the purpose of class and i have called the class with the help of the obj.
+ 
+ TestCases :
+ 1.we can give the ilements into ascending order 
+ 2.we can give the elements into descending order
+ 3.we may give the elements into jumbling order
+ 
+ Input :
+  {66,55,44,33,22,11}
+  Output :
+  {11,22,33,44,55,66}
