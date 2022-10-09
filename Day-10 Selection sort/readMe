@@ -1,4 +1,5 @@
 SelectionSort :
+
 I have created a class named SelectionSort and i have defined arr[] in the sort method
  i have intialized for loop for to find the minimum element in the unsorted subarray
  in the array smallest element will be replaced with the proper position in case  of ascending order
@@ -13,6 +14,9 @@ I have created a class named SelectionSort and i have defined arr[] in the sort 
  3.we may give the elements into jumbling order
  
  Input :
+ 
   {66,55,44,33,22,11}
+  
   Output :
+  
   {11,22,33,44,55,66}
