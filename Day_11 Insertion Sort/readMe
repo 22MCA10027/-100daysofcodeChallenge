@@ -1,0 +1,25 @@
+InsertionSort :
+
+I have created a class named InsertionSsort
+i have created a sort method and defined array in it.
+I have described the algorithm for the insertionsort
+i have created printArray method to display the array
+I have created  a main class named InsertionSorting.
+i have intialized the array elements
+i have created an object to access the class
+
+Testcases :
+
+1. we can intialize the elements in an ascending order.
+2. we can intialize the elements in descending order.
+3. we may give the elements into jumbling order.
+
+input : 
+{22,55,33,88,66,99,11,44}
+Output :
+{11,22,33,44,55,66,88,99}
+
+input 2:
+{66,55,44,33,22,11}
+output 2:
+{11,22,33,44,55,66}
