@@ -1,0 +1,21 @@
+BubbleSort :
+I have created a class named BubbleSort
+and created a method named bub and defined an array a[] in it.
+i have take a temp variable and i have difined the conditions for the bubblesort.
+and then I have created a main class named BubbleSorting and defined main metho in it.
+I have created an obj. to access the class and i called the class with the help of the obj.
+
+TestCases :
+1.we can enter the elements which are already sorted 
+ i.e., ascending or descending order
+2. we can enter the unsorted elements into an array.
+3.If we can enter the charectors in it, then we get error
+
+Input :
+{66,55,44,33,22,11}
+Output :
+{11,22,33,44,55,66}
+Input-2:
+{a,b,c,d}
+Output-2 :
+Exception
