@@ -1,0 +1,36 @@
+LinearSearch:
+
+   create a class named Linear
+   I have created a boolean method Linears and passing a[] and key.
+   then, Intialize i value as 1
+   then, check i<=n and A[i]!=key until these conditions will be satisfied.
+   If the condition in the while loop is true, then increment i value by 1
+   after termination of while loop , then check i<=n
+   i<=n,then it returns true 
+   Otherwise it returns false
+   then create a main class named LinearSearch
+   and create an object for calling the class.
+   with the help of Search object call the method.
+   
+   
+TestCases:
+
+1.If the keyelement is found in the array of elements,then it returns true.
+2.If the keyelement is not found in the array of elements,then it returns false.
+
+Input and Output:
+   Enter the Size of an array
+      6
+   Enter the elements
+     1
+     2
+     3
+     4
+     5
+     6
+     Enter the key element to search
+     6
+      true  
+  
+   
+     
