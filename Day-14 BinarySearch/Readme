@@ -14,7 +14,7 @@ Binary Search:
   whith the help of the object i have called the bin method.
   
   TestCases:
-  1.If the target is found in the array of elements, then it returns the element.
+  1.If the target is found in the array of elements, then it returns the location of the element.
   2.If the target is not found in the array of elements,then it returns 0.
   
   Input and Output:
