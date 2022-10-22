@@ -1,0 +1,33 @@
+Binary Search:
+ 
+ Firstly I have created a class named Binary
+ and have declared two local variables a[] and target
+ Input low as 1
+ intialize high = length(A)-1
+ check condition in while loop low<=high
+ if while loop is true, then mid = (low+high)/2
+ then it returns mid
+ else if mid < target then it returns low=mid+1
+  otherwise high = mid-1
+  I have created a main class BinarySearch and  defined main method
+  i have created a n object for accessing the class.
+  whith the help of the object i have called the bin method.
+  
+  TestCases:
+  1.If the target is found in the array of elements, then it returns the element.
+  2.If the target is not found in the array of elements,then it returns 0.
+  
+  Input and Output:
+  Enter the size of an Array
+  6
+  Enter the elements
+  1
+  2
+  3
+  4
+  5
+  6
+  Enter the key element to search
+  6
+    6
+  
