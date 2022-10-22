@@ -27,7 +27,18 @@ Binary Search:
   4
   5
   6
-  Enter the key element to search
+please enter the target to search
   6
     6
+ Input and output 2:
+   Enter the size of an Array
+   3
+   enter the elements
+   2
+   3
+   4
+   Please enter the key element to search
+   6
+     0
+ 
   
