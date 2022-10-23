@@ -1,0 +1,14 @@
+Strings:
+ 
+  I have created a class named Strings
+  I have declared main method
+  I have declared and created Strings firstname, lastname and surename  using Literarls.
+  I have printed the Strings with the help of strings.
+  
+  Testcases:
+  
+  1.we can enter charectors for strings.
+  2.localization concerns regarding number formats (decimals / commas)
+  3.escape character, and ending a string with the escape character - for example if your escape character is ^, and the user inputs something like See above^
+new lines in a string intended as single-line.
+4.the list is endless though because it really depends on how you intend to use the string, and where it came from.
