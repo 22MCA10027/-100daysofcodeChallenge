@@ -1,0 +1,14 @@
+Concat:
+
+Firstly, I have created a main  class named Concat
+I have defined a main method 
+I have declared a String 1 as Hari
+I have declared a String 2 as Krishna
+and I am combining the above two strings by passing one string as an arguement.
+I am printing and displaying the combined strings.
+again I am declaring a String 4 as SINGANAMALA
+and I am combining the String 4 with the above combined strings.
+I am printing and displaying the combined strings as above.
+
+TestCases:
+
