@@ -1,0 +1,16 @@
+Java Program to check given String is a palindrome or not.
+
+  StringPalindrome:
+  
+Firstly, I have created a class named StringPalindrome.
+I have declaed a main method.
+I have declared a String as HariKrishna with the help of Literals.
+I have revesed the String 
+if the given String is equal to the reversed String, then it is a Palindrome.
+otherwise it is not a palindrome.
+
+TestCases:
+
+1. if the given String is equal to the reversed String, 
+    then it is a Palindrome.
+2. otherwise it is not a palindrome.
