@@ -1,0 +1,29 @@
+Java program to revese a given line
+
+String ReverseText:
+
+ firstly, I have created a class name ass Revtext
+ I have declared a main method
+ and I am taking input from the  user with the help of Scanner class
+ and then I am reversing the given line
+ 
+ TestCase:
+ 
+ 1.User can enter a line of alphabet
+ 2.user can enter a set of numbers
+ 3.user can enter a single charector.
+ 
+ Input-1:
+  I want to learn Java
+  Output:
+  Reversed Line is: avaJ nrael ot tnaw I
+  
+ Input-2:
+  1234
+  OutPut:
+    Reversed Line is: 4321
+ Input-3:
+ h
+ Output: 
+    Reversed Line is: h
+  
