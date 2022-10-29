@@ -1,1 +1,30 @@
-StringConvert
+Java program to convert a given String into lowercase or uppercase
+
+StringConvert:
+
+I have created a class named StringConvert
+I have defined main method
+I am intializing two striungs as input1 and input2.
+and I am converting the givenStrings into Lowercase or UpperCase
+with the  help of Lowercase and UpperCase Functions.
+
+TestCases:
+
+1.we can enter a set of strings of lowercase
+2.we may enter a set of strings of uppercase
+
+Input-1:
+
+INDIA IS MY COUNTRY
+
+input-2:
+
+i love my country
+
+Output-1:
+
+india is my country
+
+Output-2:
+
+I LOVE MY COUNTRY
