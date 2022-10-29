@@ -1,1 +1,30 @@
+Java program to convert a given charector into lowercase or uppercase
+
 Convert:
+
+I have created a class named Convert
+I have declared a main method
+I am intializing two charectors as ch and ch2
+user can enter two charectors
+It will convert the two charectors into lowercase or uppercase based on user's entry
+by using toLowerCase and toUpperCase functions.
+and finally it displays the results.
+
+Test case:
+ 1.we can enter the charecer of lowercase
+ 2.we may enter the charector of uppercase
+ 3.we can enter numbers also
+ 
+ Input-1:
+ h
+ Output-1:
+ H
+ Input-2:
+ A
+ Output-2:
+ a
+ Input-3:
+ 6
+ Output-3:
+ 6
+ 
