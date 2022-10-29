@@ -1,3 +1,11 @@
 NameSort:
 
 firstly, I have created a class named NameSort
+and I havdclared a main method.
+I am intializing int n as 6.
+I am intializing an array names as HariKrishna, Balaji, SaiPawan,SaiKishore,VenkataNagaPawan,Aadarsh.
+I am using a temporory variable to store names in an array in alphabetical order.
+I am intializing temp as index of names
+index of names of i as index of names as j
+index of names of j as temp
+and finally I am printing the names as an alphabetical order.
