@@ -15,8 +15,13 @@ TestCases:
 1. we can repalce a String by other String if it is in lowercase
 2.  we can repalce a String by other String if it is in uppercase
 
-Input:
+Input-1:
 replace a by A
 
-Output:
+Output-1:
 JAvA ProgrAmming
+
+Input-2:
+replace r by R
+Output-2:
+Java PRogRamming
