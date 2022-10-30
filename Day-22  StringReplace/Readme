@@ -1,0 +1,22 @@
+Java program to replace  a given string by an other string
+
+StringReplace:
+
+firstly, I have created a Class named StringReplace,
+ to replace a string by an other String
+I have declared  a main method to access the class
+I am intializing a String str as JavaProgramming
+and I am taking an other String newString to replace the String str 
+finally, I am replacing the 'a' by 'A' in the String str.
+After that I am displaying the Replaced String.
+
+TestCases:
+
+1. we can repalce a String by other String if it is in lowercase
+2.  we can repalce a String by other String if it is in uppercase
+
+Input:
+replace a by A
+
+Output:
+JAvA ProgrAmming
