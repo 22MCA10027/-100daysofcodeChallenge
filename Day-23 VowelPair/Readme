@@ -3,4 +3,26 @@ Java program to count the number of occurences of any two vowels in succession i
 Vowel Pair:
  
  Firstly, I have created a class named VoewlPair.
- 
+ and I am using boolean datatype to return true or false statements
+ now I am using SwitchCase and defining vowels in it
+ I am taking static keyword, intializing method with String s and int n
+and intializing the count is equals to zero
+I am  using for loop and returning the count
+I am defing the main method for to begin the execution.
+i am taking input from the user with the help of Scanner class.
+After reading the line given by user, finally
+I am displaying the number of VowelPairs.
+
+TestCases:
+
+1.There may be a chance for vowel pairs
+2.there mayn,t be a chance for vowelpairs.
+
+Input-1:
+My name is HariKrishna
+Output-1:
+0
+Input-2:
+Please Forgive me
+Output-2:
+1
