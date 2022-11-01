@@ -1,0 +1,31 @@
+Java Program to find the number of Occurences of "the"
+
+String Occurence:
+
+ Firstly, I have created a public class named StringOccurence,to access everybody.
+ I am declaring the main method to statrt the execution.
+ I am taking a Scanner class to take input from the user.
+ I am taking an array s and intializing it to split function
+ I am intializing count as zero.
+ for i:s and if i is equals to an object "the"
+ then, finally print the number of times "the" Occurs.
+ 
+ TestCases:
+ 
+ 1.It will return the number of Occurences, If there will be the objects for what you are looking for.
+ 2. It will return 0, If the number of Occurences if there will not be the objects for what you are looking for.
+ 
+ Input-1: 
+ 
+  bull in the city 
+  
+  Output-2:
+  
+  1
+  Input-2:
+  
+  there is a bull 
+  
+  Output-2:
+  
+  0
