@@ -1,0 +1,49 @@
+Inserting the elements into an array:
+
+Firstly, I have created a default class named ArrayInsert.
+I have declared a main method to begin the execution.
+I am taking three variables n,m,p
+I have created a Scanner class to take input from the user.
+and I am asking user to enter the size o fan array
+I have created two arrays a and b and storing the elements into it.
+I am asking user to enter the index value where he/she wants 
+ to enter the element into the array.
+ I am taking the element from the user and I am inserting it into the array 
+ at the index givn by the user.
+ Finally, I am displaying the elements after Insertion.
+ 
+ TestCases:
+ 
+ 1.An  element can be inserted at the index, If you enter an element.
+ 2.An element can't be inserted at the index, If you did't enter an element
+     and an exception also raised.
+     
+  Input & Output-1:
+  
+   Please enter the size of an array
+   4
+   Please enter the elements into an array
+   2
+   4
+   8
+   10
+   Enter the index value
+   2
+   After the insertion the elements are
+   2
+   4
+   6
+   8
+   10
+   
+   Input-2:
+   
+   Please enter the size of an array
+   2
+   please enter the elements into the array
+   a
+   b
+   
+   & Output-2:
+   
+   Exception
