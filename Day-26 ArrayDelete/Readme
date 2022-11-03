@@ -1,0 +1,49 @@
+Array Deletion:
+
+Firstly, I have created a public class named ArrayDelete.
+I have defined a main method to begin the execution.
+I am taking two variables n amd m.
+and I have created a Scanner class to take input from the user.
+I am aking user to enter the size of an array.
+I am intializing two arrays a and b.
+I am receiving the elements from the user and
+ I am inserting the elements into the array.
+again, I am asking user to enter the index value to delete 
+ an element at his/her desired location.
+Finally, I am deleting an element at the user's 
+ desired index.
+ 
+ TestCases:
+ 
+ 1.An elementcan be deleted at the index, If you enter an element.
+ 2.An element can't be deleted at the index, If you didn't enter an element.
+ 
+ Input & Output-1:
+ 
+ Enter the size of an array
+ 6
+ Enter the elements into the array
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ Enter the index value to delete an element
+ 5
+ After the deletion the elements are
+ 1
+ 2
+ 3
+ 4
+ 5
+ 
+  Input & Output-2:
+  
+  Enter the size of an array
+  2
+  Enter the elements into the array
+  1
+  a
+  
+  Exception
