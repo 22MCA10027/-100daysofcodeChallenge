@@ -1,0 +1,11 @@
+Arranging the elements into Ascending order in an Array:
+
+Firstly, I have created a public class AscendingArray.
+I have defined the main method to begin the execution.
+I have created an array named a and I have defined its size as 5.
+and also I have taken a temperory variable.
+I am defining a Scanner class to take input from the user.
+and I am asking user to enter the elements into the Array.
+Here I am using the Bubble Sosrt for arranging the data into Ascending Order.
+Finally, I am displaying the elements in the array after arranging the elements into 
+ an Ascending Order.
