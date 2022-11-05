@@ -1,0 +1,46 @@
+Length of an Array:
+
+I have created a public class named LengthofanArray.
+I have defined a main method to begin the execution.
+I have created an array named a and defined with size 6.
+I have created a Scanner class to receive input from the user.
+I am asking user to enter the elements into the array.
+I am calculating the length of an array with the help of length.
+Finally, I am displaying the length of an array and elements entered by the user.
+
+TestCases:
+
+1.If you enter the elements into the array, then It will display
+    the length of an array.
+2.If you don't enter the elements into the array, then It will not display
+    the length of an array.
+  and it will throw exception.
+  
+  Input-1:
+   
+   Enter the elements into the array
+     11
+     22
+     33
+     55
+     44
+     66
+     
+   Output-1
+   
+   The elements are 11 22 33 55 44 66
+   The length of an array is 6.
+   
+   Input-2:
+   
+   Enter the elements into the array
+   1
+   2
+   3
+   a
+   
+   Output-2:
+   
+   Exception.
+
+ 
