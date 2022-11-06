@@ -1,0 +1,49 @@
+Creating Objects in an Array:
+
+I have created a class name Student to access the Objects
+I am intializing regno and a String name.
+I am creating a Constructor Studen t to acces the objects .
+I am usinhg a this keyword.
+Elements of the array are objects of a class Student.
+ declares an Array of integers.
+ allocating memory for 5 objects of type Student.
+ initialize the first elements of the array
+ initialize the second elements of the array
+ accessing the elements of the specified arrayObjects in Array
+ Finally, I am displaying the results.
+ 
+ Testcases:
+ 
+ 1.If you Enter the regno of Students correctly, then you will get 
+  the output of students.
+ 2.If you Enter the regno of Students Incorrectly, then you will not get 
+  the output of students.
+   and Exception will occurs.
+   
+   Input-1:
+   
+    Regno :
+     27
+      31
+       76
+        86
+         102
+         
+         Output-1:
+         
+          27 Balaji
+          31 Adarsh
+          76 Pawan
+          86 Kishore
+          102 Vignesh
+          
+          Input-2:
+          
+          1
+          2
+          3
+          a
+          
+          Output-2:
+          
+          Exception
