@@ -1,0 +1,36 @@
+creating objects of an Array:
+
+I have created a constructor named Student I am defining a String name 
+ and I am passing the string in the constructor mentod.
+here, I am taking a keyword this.
+I am defining another method toString in the String class.
+ and I am returning the name.
+ I have created a main class to access
+ the  Elements of the array are objects of a class Student
+ I am defining the main method to begin the execution.
+ I have created an object named Students.
+ declares an Array and initializing the elements of the array
+ finally, accessing ther elements of trhe specified array 
+  and I am displaying the results
+  
+  Testcases:
+  
+  1.In this case If the user can enter the Strings then the result will be displayed.
+  2. Otherwise, If the user can't be enter the strings then it can't display the results.
+  
+  Input and Output - 1:
+  
+  Adarsh
+  Pawan
+  Kishore
+  Vignesh
+  
+  Input& Output-2:
+  
+  Balaji
+  Hari
+  Adarsh
+  Vignesh
+  
+   
+ 
