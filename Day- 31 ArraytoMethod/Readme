@@ -1,0 +1,42 @@
+To demonstrate an array to a method:
+
+I have created a public class named ArraySum
+I have defined a main method to begin the execution.
+I have created an array and intializing with the elements.
+I am passing an array to a method
+I am writing the logic for addinfg the elements injtialized in
+ the array.
+finally, I am displaying the sum of the elements that are intialized 
+ in the array.
+ 
+ TestCases:
+ 
+ 1.If you enter the elements into an array , then it will 
+ provide the result as output.
+ 2.If you did not enter the elements into the array,
+ then it will thyrow an array.
+ 
+ Input-1:
+ 
+ 1,2,3,4,5
+ 
+ Output-1:
+ 
+ 15
+ 
+ input-2:
+ 
+ 6,5,4,3,2,1,2,3,4,5,6
+ 
+ Output5--2:
+ 
+ 35 
+ 
+ Input-3:
+ 
+ 11,22,33,44,55,66
+ 
+ Output-3:
+ 
+ 231
+ 
