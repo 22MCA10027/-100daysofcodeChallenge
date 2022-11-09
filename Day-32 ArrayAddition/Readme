@@ -1,0 +1,31 @@
+Java Program to perform Addition Operations:
+
+firstly,I have created a default class named ArrayAddition.
+I have defined the main method to begin the execution.
+I am taking two arrays and intializing with the elements in it.
+I am taking i for rows and I am taking j for columns.
+I am displaying the sum of the elements in the rows
+I am displaying the elements of array in the column
+and finally, I am displaying the total sum of elements of an array.
+
+Testcases:
+
+1.Array size can be defined properly.then enter the elements into to
+the array to perform
+  whatever operations you want.
+  
+  Input:
+   
+    1,2,3
+    4,5,6
+    7,8,9
+    
+   Output:
+   
+    Sum of row 1 is 6
+    Sum of row 2 is 15
+    Sum of row 3 is 24
+    Sum of column 1 is 12
+    Sum of column 2 is  15
+    Sum of column 3 is  18
+    Total sum of elements of array is 45
