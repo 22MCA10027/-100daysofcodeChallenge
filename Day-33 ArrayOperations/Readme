@@ -1,0 +1,14 @@
+Java Program to perform Array Operations:
+
+I am taking Scanner class from util package.
+ firstly, I have created a default class named ArrayOperations.
+I have defined the main method to begin the execution.
+I am defining the Scanner class to take input from the user.
+I am asking user to enter number of rows and number of columns into the array
+I am reading the values and inputing into the array.
+I am creating two arrays for rows and columns.
+After that, I am displaying the sum of each row of a matrix 
+The highest sum among all rows in a matrix and 
+Sum of all columns and 
+The highest sum among all columns in a matrix 
+finally, I am displaying The highest sum among all columns in a matrix
