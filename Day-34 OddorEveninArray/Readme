@@ -1,0 +1,45 @@
+Java program to count the Odd and Even numbers:
+
+firstly,I have created a public class named ArrayOddEven.
+I have defined the main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am asking user to eter the size of an Aarray.
+I have created an sized n.
+I have created an array named numbers.
+I am askinng user to enter the elements into the array.
+I am writing the logic for a method to count odd and even numbers
+ in a given array and I am displaying it.
+I am traversing the array
+finally, I am displaying the result as number of odd and even numbers 
+  can be displayed.
+  
+  TestCases:
+  
+  1.If we enter the even number the group of elements in the array, then
+   It will count the number of even numbers and it will display it.
+  2.similarly, If we can enter the Odd number in the group of elements in an array,
+   then it will count the number odd numbers then it will display it's count.
+   
+   Input-1:
+   
+    Enter the size of an array
+      6
+     Enter the elements into the array
+      1,2,3,4,5,6
+      
+      Output-1:
+       
+        Count of Even numbers = 3
+        Count of Odd numbers = 3
+    Input-2:
+    
+     Enter the size of an array
+      8
+     Enter the elements into the array
+      1,2,2,3,4,5,6,6
+      
+      Output-1:
+       
+        Count of Even numbers = 5
+        Count of Odd numbers = 3
+       
