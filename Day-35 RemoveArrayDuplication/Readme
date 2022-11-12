@@ -1,0 +1,36 @@
+Java program to remove the duplicate elements in an array:
+
+Firstly, I have creatged a public class named ArrayDuplicate.
+I have defined main method  to begin the execution.
+I am initializing an array with the elements 
+I am defining a new array named newArray to remove 
+the duplicate elements in the given array.
+I am displaying the both arrays before removal of duplicate elements 
+and after removing the duplicate elements in an array.
+I am initializing j = 0 for index without duplicates.
+I am writinfg a loop for to iterate an array. then
+I am returning a new copied array.
+
+TestCases:
+
+1. We have to input number of elements in an array,
+If any element which is repeated then It will be removed.
+2. If there is no repeated elements in the given array, then 
+there is no need to remove the duplicate elements in the
+ given array.
+ 
+ Input-1:
+ 
+ 10, 20, 30, 30, 40, 40, 40, 50,60, 60 
+ 
+ Output-1:
+ 
+ 10, 20, 30, 40, 50, 60
+ 
+ Input-2:
+ 
+ 10, 10, 10, 20, 40, 60, 60, 80, 90, 90, 90, 100, 100
+ 
+ Output-2:
+ 
+ 10,20, 40, 60, 80, 90, 100
