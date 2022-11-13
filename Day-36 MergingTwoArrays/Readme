@@ -1,0 +1,47 @@
+Java programto merge two arrays into a single array:
+
+Firstly, I am creating a public class named ArrayMerge.
+I am defining the main method to begin the execution.
+I am intializing two arrays arr1 and arr2 to merge these two 
+ arrays into a single array.
+I am creating a new array, then
+I am copying first array to new array from 0 to arr1.length
+similarly, 
+I am copying second array to new array.
+and finally,
+I am displaying first array, second array and 
+ the merged array.
+ 
+ Testcases:
+ 
+ 1.we have to intialize two arrays with the group of elements, then 
+  it will be merge the two arrays into a single array.
+  
+ Input-1:
+ 
+ arr1 = 10, 20, 30, 40, 50
+ 
+ arr2 = 60, 70, 80, 90, 100, 100
+  
+ Output-1:
+ 
+ arr1 = 10, 20, 30, 40, 50
+ 
+ arr2 = 60, 70, 80, 90, 100, 100
+ 
+ Merged array = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 100
+ 
+ Input-2:
+ 
+ arr1 = 10, 10, 10, 20
+ 
+ arr2 = 20, 30
+ 
+ Output-2:
+ 
+ arr1 = 10, 10, 10, 20
+ 
+ arr2 = 20, 30
+ 
+ Merged array = 10, 10, 10, 20, 20, 30
+ 
