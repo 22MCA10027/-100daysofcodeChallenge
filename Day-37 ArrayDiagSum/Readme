@@ -1,0 +1,43 @@
+Sum of diagonal elements of an array:
+
+I am creating a public class named ArrayDiag
+I am defining a main method to begin the execution.
+I am creating a Scanner class to take input from the user.
+I am aski n g user to enter the row size.
+I am asking user to enter the column size.
+I am de3claring a two dim3entional array named a with row size m and column size n.
+I am asking user to enter the elements into an array.
+ then, I am storing the elements into the array.
+I am adding the diagonal elements in an array.
+and finally I am displaying the result.
+
+Testcase:
+
+We have to enter the elements into an array. 
+It will stores the elements in the form of matrix and
+then It will add the diagonal elwements in the matrix and 
+It will display the result.
+
+Input -1:
+
+     1 2 3 
+     4 5 6 
+     7 8 9 
+     
+Output-1:
+     
+     the Sum of diagonal elements are  15
+     
+Input -2:
+
+     11 22 33 
+     44 55 66 
+     77 88 99 
+     
+Output-1:
+     
+     the Sum of diagonal elements are  165
+     
+
+
+ 
