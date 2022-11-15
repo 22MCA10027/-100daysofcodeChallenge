@@ -1,0 +1,44 @@
+java program to perform tranpose of a matrix in the arrays:
+
+I am creating a public class named TransposeMatrix.
+I am defining the main method to begin the execution.
+I am creating a Scanner class to take input from the user.
+
+I am asking user to enter the row size.
+I am asking user to enter the  column size.
+I am intializing an array a with row and column.
+
+After that,
+I am declaring a new matrix to store the result.
+method to calculate the transpose of a matrix.
+ declare a matrix to store resultant
+Outer loop for row and inner loop for column
+and finally, I am displaying the result.
+
+Testcase:
+
+We have to enter the elements in an array, 
+the elements can be stored in the matrix form.
+then, it will tranpose the matrix and it will display the result.
+
+Input-1:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output-1:
+
+1 4 7
+2 5 8
+3 6 9
+
+Input-2:
+
+1 2
+3 4
+
+Output-2:
+
+1 3 
+2 4
