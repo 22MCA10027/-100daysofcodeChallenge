@@ -1,0 +1,41 @@
+Largest of an Array:
+
+Firstly, I have created a public class named LargestArray.
+I am writing java method to find largest number in array.
+I am declaring a variable max.
+I am comparing the remaining elements.
+I am defining the main method to begin the execution.
+I am creating a Scanner class to take input from the user.
+I am declaring the variables.
+I am asking user to enter the length of an array.
+I am asking user to enter the elements into the array.
+I am storing the elements into the array given by the user.
+I am closing the Scannerclass finally,
+then
+ I am displaying the largest number.
+ 
+ Testcase:
+ 
+ we have to enter the elements into an array, then 
+ the largeast number will be displayed among the given numbers.
+ 
+ Input-1:
+ 
+ Enter the size of an array: 3
+ 
+ Enter the elements into the array: 6,9,3,1
+ 
+ Output-1: 
+ 
+ The largest number is 9
+  
+   Input-2:
+ 
+ Enter the size of an array: 6
+ 
+ Enter the elements into the array: 6,9,3,88,99,208,999
+ 
+ Output-1: 
+ 
+ The largest number is 999
+  
