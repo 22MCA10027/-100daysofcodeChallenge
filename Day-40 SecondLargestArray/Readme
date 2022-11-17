@@ -1,0 +1,51 @@
+Second Largest element of an Array:
+
+Firstly, I have created a public class named SecondLargest.
+I am defining a method to find 2nd largest number in an array.
+I am declaring thwe variables fmax and smax.
+I am assigning the first element into fmax and smax.
+I am defining the main method to begin the execution.
+I am creating a Scanner class to take input from the user.
+I am declaring the variables length and 
+I am intializing the numbers into null.
+I am asking user to enter the length of an array.
+I am asking user to enter the elements into the array.
+I am closing the Scanner class then
+finally, I am displaying the Second largest element
+among the numbers in the array given by the user.
+
+Testcase:
+ 
+ 1.We have to enter the number of elements into an array,
+ then the Secongd largest number in the list of elements given by us.
+ 
+ 2.If we can declare the size of an array as 1 then the Single number
+ what you have entered can be displayed as Second Largest element in the given array.
+
+Input-1:
+
+Enter the length of an array:
+ 6
+Enter the elements into the array:
+ 11
+ 22
+ 33
+ 44
+ 55
+ 66
+ 
+ Output-1:
+  
+  The Second largest element among the given numbers in the array is 55
+  
+  Input-1:
+
+Enter the length of an array:
+ 1
+Enter the elements into the array:
+
+ 66
+ 
+ Output-2:
+  
+  The Second largest element among the given numbers in the array is 6
