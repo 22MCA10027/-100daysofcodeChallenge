@@ -1,0 +1,60 @@
+Java program to count number of Odd and Even in an array input given by the user.
+
+ArrayCountOddEven:
+
+firstly, I have created a public class named ArrayOddEven.
+I have defined the main method to begin the execution.
+I have  created a Scanner class to take input from the user.
+I am asking user to enter the length of an array.
+I am asking user to enter the elements into the array.
+I am storing elements into the array.
+I am defining the method for to the Odd numbers.
+I am defining the method to count the Even numbers.
+I am closing the Scanneer class.
+finally, I am displaying the count of Odd numberrs 
+ and the count of even numbers.
+ 
+ Testcase:
+ 
+ We have to enter the elements into an array,
+ 1. If there are Odd numbers present in the array then 
+  the count of the Odd numbers will be displayed.
+ 2.If there are Even numbers present in the array then 
+  the count of the Even numbers will be displayed.
+  3. If there are no Odd and no Even numbers then it will 
+    return 0.
+    
+ Input-1:
+ 
+ Enter the length of an array :
+ 
+ 6
+ 
+ Enter the elements into the array:
+ 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 
+ Output-1:
+ 
+    Count of the Odd numbers is = 3
+  Count of the Even numbers is = 3
+      
+ Input-2:
+ 
+ Enter the length of an array :
+ 
+ 1
+ 
+ Enter the elements into the array:
+ 
+ 6
+ 
+ Output-2:
+ 
+    Count of the Odd numbers is = 0
+  Count of the Even numbers is = 1
