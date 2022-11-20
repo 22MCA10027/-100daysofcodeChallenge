@@ -1,0 +1,55 @@
+java program to count Positive, Negative and Zeroes in an Array.
+
+Array Count:
+
+Firstly, I have created a public class named ArrayCount.
+I have defined main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am asking user to enter the length of the array.
+I am creating an array named numbers and initialized with size n.
+I am asking user to enter the elements into the array.
+I am storing the elements sinto the array.
+I am closing the Scanner class.
+I am defining the method to count the number of positive,
+ negative and Zeroes in the given array.
+I am checking each and every element, whether it is a positive, 
+negative and zeroes int the array.
+finally, I am displaying the number of positive, negative 
+and zeroes in an array the input given by the user.
+
+Test Case:
+
+We have to enter the elements into the array, then it will count 
+the number of positive, negative and zeroes in an array.
+
+Input-1:
+ 
+ Enter the size of an array:
+  6
+ Enter the elements into the array:
+  0
+  2
+  -4
+  6
+  -8
+  10
+  
+ Output-1:
+ 
+ Positive numbers = 3
+ Negative numbers = 2
+ Zeroes = 1
+ 
+ Input-2:
+ 
+ Enter the size of an array:
+  2
+ Enter the elements into the array:
+  0
+  2
+    
+ Output-2:
+ 
+ Positive numbers = 1
+ Negative numbers = 0
+ Zeroes = 1
