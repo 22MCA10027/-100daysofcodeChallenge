@@ -1,0 +1,50 @@
+Java program to find average of an array and to find the numbers which are graterr than array:
+
+ArrayAvgGrater:
+
+Firstly, I have created a public class named ArrayAvgGrater.
+I have defined the main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am asking user to enter the length of the array.
+I am storing the size of an array in a variable n.
+I am asking user to enter the elements into the array.
+I am storing the elements into the array.
+I am finding the averagwe of an array and I am displaying it.
+I have defined a method to find the numbers which are grater than average.
+Finally, I am displaying the average and numbers which are grater than array.
+
+TestCase:
+
+We have to enter the elements into an array, we can't enter Strings into it.
+then, Average of an array and numbers which are grater than array will be displayed.
+
+Input-1:
+
+Enter the size of an array:
+6
+Enter the elements into the array:
+11
+22
+33
+44
+55
+66
+
+Output-1:
+
+Average = 38
+The nnumbers which are grater than average is = 44 55 66
+
+Input-2:
+
+Enter the size of an array:
+2
+Enter the elements into the array:
+0
+1
+
+Output-2:
+
+Average = 0
+The nnumbers which are grater than average is = 1
+
