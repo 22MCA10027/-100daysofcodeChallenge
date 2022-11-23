@@ -1,0 +1,40 @@
+Fibonacci Series:
+
+Firstly, I have created a public class named FibonacciSeries.
+I have created a static method displayfib and defined with int term.
+I have initialized t1 with zero.
+I have initialized t2 with 1.
+I have initialized n.
+I have initialized i with 1.
+I am using while loop , while(i<=term) 
+I am displaying the numbers upto the term.
+I am updating the term values
+I am increasing the iterative variable value by 1.
+I am defining the main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am asking user to enter the number of terms.
+I am displaying Fibonacci Series.
+finally, I am closing the Scanner class.
+
+TestCase:
+
+ In the Fibonacci series, the next element will be the sum of the previous two elements. 
+ The Fibonacci sequence is a series of numbers where a number is found by adding up the two numbers before it. 
+ Starting with 0 and 1, the sequence goes 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on…
+
+
+Input-1:
+
+Enter the number of terms: 7
+
+Output-1:
+
+0 1 1 2 3 5 8
+
+Input-2:
+
+Enter the number of terms: 10
+
+Output-2:
+
+0 1 1 2 3 5 8 13 21 34
