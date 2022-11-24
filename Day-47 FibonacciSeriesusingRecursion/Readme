@@ -1,0 +1,39 @@
+Fibonacci Series by using Recursion:
+
+Firstly, I have created a public class named FibonacciSeriesR.
+I have created a static int method fibonacci and passing  with parameter n.
+If n < = 1 then, return n.
+else 
+return fibonacci(n-1) + fibonacci(n-2)
+I am defining the main method to begin the execution.
+I am initializing a vatiable n.
+I have created a Scanner class to take input from the user.
+I am asking user to enter the number of terms.
+I am displaying Fibonacci Series.
+finally, I am closing the Scanner class.
+
+TestCase:
+
+ Here, I am using recursion method to find the fibonacci series, that means Recursion is 
+ The process in which a function calls itself directly or indirectly is called recursion 
+ and the corresponding function is called a recursive function. 
+ In the Fibonacci series, the next element will be the sum of the previous two elements. 
+ The Fibonacci sequence is a series of numbers where a number is found by adding up the two numbers before it. 
+ Starting with 0 and 1, the sequence goes 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on…
+
+
+Input-1:
+
+Enter the number of terms: 7
+
+Output-1:
+
+0 1 1 2 3 5 8
+
+Input-2:
+
+Enter the number of terms: 10
+
+Output-2:
+
+0 1 1 2 3 5 8 13 21 34
