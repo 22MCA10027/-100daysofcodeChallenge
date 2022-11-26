@@ -1,0 +1,37 @@
+SumofSeriesof N*N input given by the user:
+
+SumofSeriesN*N:
+
+I have created a public class named SumofSeriesofNN.
+I have defined the main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I have declared variables n and sum = 0.
+I am asking user to input the N value.
+I am calculating the sum of the series.
+and finally, I am displaying the result.
+ i.e, sum of the series upto N.
+ 
+ Testcase:
+ 
+The series 12 + 22 + 32 + 42 + 52 +….+ n2 or 1*1 + 2*2 + 3*3 + 4*4 + 5*5 +….+ n*n is the sum of square of first N natural numbers.
+It is similar to the previous series but we have to add square value of the numbers. 
+ 
+ Input-1:
+ 
+ Enter N value :
+ 
+  6
+  
+  Output-1:
+  
+  Sum of series is = 91
+  
+  Input-2:
+  
+  Enter the N value :
+  
+  2
+  
+  Output-2:
+  
+  Sum of series is = 5
