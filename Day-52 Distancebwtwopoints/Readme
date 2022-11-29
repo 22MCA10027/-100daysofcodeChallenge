@@ -1,0 +1,39 @@
+java program to find  the distance between two points:
+
+Firstly, I have created a scanner class named Distance.
+I have defined main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am declaring the variables x1,x2,y1,y2,x,y and double distance.
+I am asking the user to enter the first point coordinates.
+I am storing the first point coordinates in x1 and y1.
+I am asking user to enter the second point coordinates.
+I am storing the second point coordinatess in x2 and y2.
+I am calculating the Distance between two points.
+Finally, I am displaying the result,
+ i.e., Distance between two points.
+ 
+ Testcase:
+ 
+ Assume we have two points M and N, with coordinates (x1, y1) and (x2, y2) respectively. Their distance  can be represented as MN and it can be calculated as given below formula,
+
+The first point (M):- (x1, y1)
+Second point (N):- (x2, y2)
+Distance (MN):- √((x2 – x1)2 + (y2 -y1)2)
+
+Input-1:
+
+Enter first point coordinates: 4 8
+Enter second point coordinates: 12 14
+
+Output-1:
+
+Distance between them = 10.0
+
+Input-2:
+
+Enter first point coordinates: 0 0
+Enter second point coordinates: 5 12
+
+Output-2:
+Distance between them = 13.0
+
