@@ -1,0 +1,48 @@
+Distance between two points:
+
+I have  created a public class Point.
+I have declared the variables x1, x2, y1, y2.
+I have created a method setdata 
+I have created a Scanner class to take input from the user.
+I am asking user to enter x1 point, x2 point, y1 point, y2 point
+and I am storing the points into x1, x2, y1 and y2.
+I have created a calculate method .
+I have defined main method to begin the execution.
+I have created an array and declared size with 10 
+I have created an othe scanner class to  take input from the user.
+ I am asking user to enter the number of coordinates.
+ I am storing the array size n.
+ 
+ Testcase:
+ 
+ The X and Y coordinates of 10 different points are entered through the keyboard.
+ Write a program to findthe distance of last point from the first point (sum of distance between consecutive points)
+ 
+ Input & Output-1:
+ 
+ Enter the number rof coordinates:
+  2
+ Enter the x1 point : 2 
+ Enter the x2 point : 4
+ Enter the y1 point : 6
+ Enter the y2 point : 8
+  2.8284
+ Enter the x1 point : 12
+ Enter the x2 point : 16
+ Enter the y1 point : 22
+ Enter the y2 point : 26
+   5.6568
+   
+Input & Output-2:
+
+ Enter the number rof coordinates:
+  1
+ Enter the x1 point : 1
+ Enter the x2 point : 3
+ Enter the y1 point : 5
+ Enter the y2 point : 7
+   2.8284
+   
+   
+ 
+ 
