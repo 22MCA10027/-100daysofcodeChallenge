@@ -1,0 +1,37 @@
+Java program to convert Celsius to Fahrenheit:
+
+firstly, I have created a class TemperatureCeltoFor.
+method to convert celsius to fahrenheit
+I have defined the main method to begin the execution
+I have declared the variables celcius and fahrenheit with double datatype.
+I have created a Scanner class to take input from the user.
+I am assking user to enter the celcius value.
+I am storing the value into the variable celsius.
+I am converting the celcius into the fahrenheit
+I am displaying the result.
+ 
+Testcase:
+
+Conversion from Celsius to Fahrenheit and from Fahrenheit to Celsius has an important role in the conversion of units system. In this post, we will develop a Java program to convert Celsius to Fahrenheit.
+
+The formula used to convert from Celsius to Fahrenheit is given as, ⁰F= (⁰C * 9/5) + 32
+
+Input-1:
+
+Enter the celcius value
+
+ 26
+ 
+Output-1:
+ 
+Fahrenheit value = 78.80
+
+Input-2:
+
+Enter the celcius value
+
+ 45
+ 
+Output-2:
+ 
+Fahrenheit value = 113.00
