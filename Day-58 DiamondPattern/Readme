@@ -1,0 +1,54 @@
+Diamod Pattern:
+
+Java program to display Diamond Pattern:
+
+Firstly, I have created a public class named DiamondPatterns.
+I have defined main method to begin the execution.
+I have created Scanner class to take input from the user.
+I have initialized a variable n with zero.
+I am asking user to enter the N value.
+I am storing the value into the variable n given by the user.
+I have created a printStarDiamond method and passing parameter n.
+if,n<0 thenI am displaying to enter the positive number.
+for first half portion for first half portion (top to bottom)
+in each iteration a will start from 1
+for second half portion in each iteration a will start from 1.
+Finally, I am displaying the Diamond pattern.
+
+TestCase:
+
+Java program to display the given below full diamond of Numbers.
+
+Input-1 :
+
+Enter N value ::
+ 6
+ 
+  Output-1:
+ 
+      1
+     123
+    12345
+   1234567
+  123456789
+ 1234567891011
+  123456789
+   1234567
+    12345
+     123
+      1
+
+
+        
+Input-2:
+
+Enter N value ::
+ 3
+ 
+ Output-2:
+ 
+   1
+  123
+ 12345
+  123
+   1
