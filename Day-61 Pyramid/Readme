@@ -1,0 +1,34 @@
+The Java program for the above Inverted half Pyramid star pattern:
+
+I have created a public class named HalfPyramid 
+I have defined the main method to begin the execution
+I am starting the for loop to print the pyramid.
+I am printing the star symbol.
+Finally, I am printing the Invertedpyramid Star .
+
+TestCase:
+
+The code for the inverted half pyramid star pattern 
+
+Input-1:
+ 
+  5
+  
+Output-1:
+ 
+* * * * *
+* * * *
+* * *
+* *
+*
+
+   
+Input-2:
+   
+   3
+   
+Output-3:
+   
+* * *
+* *
+*
