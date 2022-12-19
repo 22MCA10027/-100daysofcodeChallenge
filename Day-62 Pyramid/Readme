@@ -1,0 +1,39 @@
+Full pyramid star pattern program in Java can be written as follows
+
+firstly, I am importing Scanner class to take input from the user. 
+I hava created a public class named FullPyramid.
+I am defining the main method to begin the execution.
+I am creating the scanner class.
+I am initializing an integer n as 0
+I am taking input from the user.
+I am asking user to enter the number of rows.
+I am starting the loop here.
+I am giving space for the pyramid
+I am printing the star
+Finally I am displaying the full pyramid.
+
+TestCase:
+
+Java  program to print full pyramid.
+
+Input-1:
+ 
+  5
+  
+  Output-1:
+  
+    *
+   ***
+  *****
+ *******
+*********
+
+  Input-2:
+  
+  3
+  
+  Output-2:
+  
+  *
+ ***
+*****
