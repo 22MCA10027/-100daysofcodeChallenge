@@ -1,0 +1,38 @@
+Java program to print leap year
+
+I have created a public  class named LeapYearN.
+I have written the method isLeapYear and passing Year as a parameter in it.
+and
+I have written the condition here.
+I have defined the main method to begin the execution.
+I have declared the variables year = 0.
+and boolean result = false.
+I have created a Scanner class to take input from the user.;
+i am asking user to enter the year 
+I am checking the year whether it is a leap year or not.
+I am displying the year whether it is a leap year or not a leapyear.
+I am closing the Scanner class.
+
+TestCase:
+
+Leap year program in Java using nested if else
+
+Input-1:
+ 
+  Enter a year
+  
+   1990
+  
+Output-1:
+
+1990 is not a LeapYear
+
+Input-2:
+ 
+  Enter a year
+  
+   1992
+  
+Output-2:
+
+1992 is a LeapYear 
