@@ -1,0 +1,65 @@
+Java program to find LCM of two numbers:
+
+I have created a public class named LcmProgram.
+I have  ctreated a method findLCM and passing parameters n1 and n2
+I have declared a temperory variable to store lcm.
+I am findig smallest and largest numbers.
+I am assign smallest number to minMultiple
+I am using while loop here.
+I am defining main method to begin the execution.
+I am declaring the variables nnumber1 and number2 
+and initializing with zeros
+I am initializing long lcm with zero.
+I am creating Scanner class to take input from the user.
+I am asking user to enter two integer numbers.
+I am finding LCM for both numbers.
+I am displaying the LCM for two numbers.
+I am closing the Scanner class.
+
+TestCase:
+
+Enter two integer numbers:: 12 15
+Smallest number = 12
+Largest number = 15
+minMultiple = 12
+
+Iteration 1,
+12%15 != 0
+minMultiple =12+12
+minMultiple = 24
+
+Iteration 2,
+24%15 != 0
+minMultiple =24+12
+minMultiple = 36
+
+Iteration 3,
+36%15 != 0
+minMultiple =36+12
+minMultiple = 48
+
+Iteration 4,
+48%15 != 0
+minMultiple =48+12
+minMultiple = 60
+
+Iteration 5,
+60%15 == 0
+LCM(12,15) = 60
+
+Input -1:
+  
+  Enter two integer numbers: 3 4
+  
+OutPut-1:
+
+  LCM(3,4) = 12
+  
+Input-2:
+  
+   Enter two integer numbers:
+    
+OutPut-2:
+  
+   LCM(6,9) = 18
+  
