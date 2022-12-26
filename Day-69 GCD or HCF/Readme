@@ -1,0 +1,46 @@
+Java program to find HCF of GCD of two numbers:
+
+I have created a public class named HcfPrograms.
+I have  created a method findHCF and passing parameters num1 and num2
+I am using while loop and returning num1.
+I am defining main method to begin the execution.
+I have declared variables num1, num2 and hcf and
+I am initializing the variables with 0's.
+I am creating Scanner class to take input from the user.
+I am asking user to enter two integer numbers.
+I am finding HCF for both numbers.
+I am displaying the HCF for two numbers.
+I am closing the Scanner class.
+
+TestCase:
+
+HCF of 60 and 75 = 15 because 15 is the highest number which divides both 60 and 75 exactly.
+
+Procedure to find the HCF or GCD of two numbers,
+1) Take two numbers
+2) Declare a temporary variable hcf to store the HCF value
+3) Take an iterator variable and initialize it with 1 i.e. i=1
+4) Check both numbers are divisible by iterator variable (i) or not?
+5) If yes then hcf = i
+6) Increase the iterator variable by 1
+7) Repeat 4 to 6 step until the iterator variable is less than both numbers
+
+Input-1:
+ 
+  Enter two integer numbers:
+    12
+    24
+    
+Output-1:
+
+  HCF(12,24) = 12
+  
+Input-2:
+ 
+  Enter two integer numbers:
+    24
+    48
+    
+Output-1:
+
+  HCF(24,48) = 24
