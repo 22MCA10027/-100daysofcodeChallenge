@@ -1,0 +1,43 @@
+Java program to find the largest number among three numbers:
+
+I have created a public class named LargestNumber.
+I have defined main method to begin the execution.
+I am declaring the vriables num1, num2, num3 with double
+ and initializing with zeroes.
+I have created a Scanner class to take input from the user.
+I am asking user to enter three numbers.
+I am storing those numbers in num1, num2 and num3
+if num1 is graterthan num2 and num3 then num1 is largest
+   else num3 is largest.
+if num2 is graterthan num3 then num2 is largest.
+finally, I am displaying the Largest number among threee numbers
+ and I am closing the Scanner class.
+
+TestCase:
+
+Java program to find the greatest among the three numbers.
+ let, a=6, b=5, c=4 
+      if(a>b and a>c) then a is big.
+          else c is big.
+   if b>c then b is big.
+  here, 6>5 and 6>4 so, 6 is the Largest number.
+
+Input-1:
+
+ Enter any three numbers
+
+    11 22 66
+
+Output-1:
+
+ The Largest number among three numbers is 66.0
+  
+Input-1:
+
+ Enter any three numbers
+
+    1024 512 256
+
+Output-1:
+
+ The Largest number among three numbers is 1024.0
