@@ -1,0 +1,51 @@
+Java program to find  average of three numbers:
+
+firstly, I am importing the scanner class.
+I have created a public class named AverageofThree.
+I have defined the main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am asking user to enter the num1.
+I am storing value into the double variable num1. 
+I am asking user to enter the num2.
+I am storing value into the double variable num2. 
+I am asking user to enter the num3.
+I am storing value into the double variable num3. 
+I am initializing double variable sum with 0.0
+I am initializing double variable avg with 0.0
+then sum = num1 + num2 + num3
+avg = sum/3.
+finally, I am displaying the average of three numbers.
+
+TestCase:
+
+ Java program to take input from the user and to dispaly 
+the average of three numbers,
+
+1) Take three numbers
+2) Declare a sum variable
+3) Calculate the addition of those three numbers and assign them to the sum variable
+4) Find average as average = sum/3
+5) Finally, display the result of the average value
+Input-1:
+
+ Enter num1 : 10
+  
+ Enter num2 : 10
+ 
+ Enter num3 : 10
+ 
+Output-1:
+ 
+ The average of two numbers is 10
+ 
+Input-2:
+
+ Enter num1 : 10
+  
+ Enter num2 : 20
+ 
+ Enter num3 : 30
+ 
+Output-2:
+ 
+ The average of two numbers is 20
