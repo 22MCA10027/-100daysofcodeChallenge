@@ -1,0 +1,51 @@
+Java program to take input from the user and  to display the simple interest and the total amount:
+
+firstly, I am importing the scanner class.
+I have created a public class named SimpleInterest .
+I have defined the main method to begin the execution.
+I have declared principalAmount as double and initializing with 0.0. 
+I have declared  rate as double and initializing with 0.0.
+I have declared time as double and initializing with 0.0.
+I have declared interest as double and initializing with 0.0.
+I have created a Scanner class to take input from the user.
+I am asking user to enter the principal amount.
+I am storing value into the principal amount. 
+I am asking user to enter the time in months.
+I am storing value into the months. 
+I am asking user to enter the interest rate.
+I am storing value into the interest rate. 
+then  interest = (principalAmount * rate * time) / 100;
+finally, I am displaying the Simple Interest and the total amount to pay.
+
+TestCase:
+
+1) Define class and the main method
+2) Declare variables for taking inputs:- principal amount, time, and interest rate
+3) import Scanner class of util package to read inputs
+4) Read inputs from end-user and store them in the declared variables
+5) Calculate simple interest using the formula, and store it in a variable
+6) Display the simple interest
+7) Close the Scanner class object
+
+Input-1:
+
+Enter principal amount:: 100000
+Enter time (in months):: 12
+Enter  the  interest rate (per year):: 2
+
+ 
+Output-1:
+ 
+Simple interest = 24000.0
+Total amount to pay = 124000.0
+ 
+Input-2:
+
+Enter principal amount:: 1000000
+Enter time (in months):: 12
+Enter  the  interest rate (per year):: 2
+
+Output-2:
+ 
+Simple interest = 240000.0
+Total amount to pay = 1240000.0
