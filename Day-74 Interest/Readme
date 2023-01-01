@@ -1,0 +1,58 @@
+Java program to take input from the user and  to display the Compound interest and the total amount:
+
+firstly, I am importing the scanner class.
+I have created a public class named SimpleInterest .
+I have defined the main method to begin the execution.
+I have declared principal as double and initializing with 0.0. 
+I have declared  rate as double and initializing with 0.0.
+I have declared time as double and initializing with 0.0.
+I have declared number as integer and initializing with 0.0.
+I have declared totalAmount as double and initializing with 0.0.
+I have created a Scanner class to take input from the user.
+I am asking user to enter the principal amount.
+I am storing value into the principal. 
+I am asking user to "Enter the annual compound " and "interest rate"
+and I am storing in the rate.
+I am asking user to enter the time in months.
+I am storing value into the months. 
+I am asking user to Enter the number of times that interest is compounded per year.
+I am storing value into the number. 
+then  I am calculating the total amount 
+ i.e., totalAmount = principal * 
+                 Math.pow( 1+(rate/number), number*time);
+I am calculating the compound interest interest = totalAmount - principal;
+finally, I am displaying the Compound Interest and the total amount to pay.
+
+TestCase :
+
+To calculate the compound interest we need to find the power.
+For this purpose, we can use a pre-defined static method pow(double a, double b) of the Math class. It is a static method 
+so, to call the pow(-,-) method no need to create an object of the Math class
+
+
+Input-1:
+
+
+Enter principal amount:: 5000
+Enter the annual compound interest rate:: 5
+Enter time (in years):: 10
+Enter the number of times that interest is compounded per year:: 12
+
+ 
+Output-1:
+ 
+Compound interest = 3235.0474884514006
+Total amount = 8235.0474884514
+ 
+Input-2:
+
+Enter principal amount:: 1500
+Enter the annual compound interest rate:: 4.3
+Enter time (in years):: 6
+Enter the number of times that interest is compounded per year:: 4
+
+Output-2:
+
+Compound interest = 438.83682213410543
+Total amount = 1938.8368221341054
+ 
