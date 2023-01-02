@@ -1,0 +1,42 @@
+Java to display ASCII value of alphabets in Java
+
+firstly, I am importing Scanner class from java package.
+I have created a public class named AlphabetASCIIValue.
+I have declared a char variable ch.
+I have declared a int variable value.
+I have created Scanner class to take input from the user.
+I am asking user to enter an alphabet.
+and I am storing the alphabet into ch.
+I am converting the char to Ascii value.
+I am display ascii value
+ Or  we can directly display ASCII value
+   by using type-casting (int)ch
+ finally, I am closing the Scanner class object.
+
+TestCase:
+
+char ch= 'a';
+//direct assigning
+int n1 = ch; 
+//type-casting
+int n2 = (int)ch;
+The n1 and n2 variables hold the ASCII value of the character ‘a’.
+ The below-given program demonstrates it.
+
+Input-1:
+
+Enter an alphabet:: a
+
+Output-1:
+
+ASCII value of a = 97
+ASCII value of a = 97
+
+Input-2:
+
+Enter an alphabet:: 1
+
+Output-2:
+
+ASCII value of 1 = 49
+ASCII value of 1 = 49
