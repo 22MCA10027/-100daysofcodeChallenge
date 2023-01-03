@@ -1,0 +1,45 @@
+java program to take input from the user and to display the area of a circle.
+
+firstly, I have imported a Scanner class from the java package.
+I have created a public class named CircleArea.
+I have defined the main method to begin the execution
+I have declared the variables radius and area as double 
+ and initialized with zeroes.
+I have created a Scanner class to tske input from the user.
+I am asking user to enter the radius of a circle.
+I am storing the radius of the circle into the radius.
+I am calculating the area of a circle.
+area = Math.PI*radius*radius.
+finally, I am displaying the area of a circle and
+I am closing the Scanner class.
+
+TestCase:
+
+1) Define a class and main method
+2) Declare a variable for taking input:- radius
+3) Import Scanner class of util package to read input
+4) Read input from end-user and store them in the declared variable
+5) Calculate area using the formula, and store it in a variable
+6) Display the result
+7) Close the Scanner class object
+// calculate area
+area = Math.PI * radius * radius;
+Or use,
+area = Math.PI * Math.pow(radius, 2);
+
+Input-1:
+
+Enter the radius of circle:: 6
+
+Output-1:
+
+Area of circle = 113.09733552923255
+
+
+Input-1:
+
+Enter the radius of circle:: 96
+
+Output-1:
+
+Area of circle = 28952.917895483533
