@@ -1,0 +1,47 @@
+Java program to take input from the user and to Swap two numbers
+
+I have imported Scanner class from the java package.
+I have created a public class named Swappingoftwo
+I have defined main method to begin the execution.
+I have declared three variables x,y and temp as int type.
+I have created a Scanner class to take input from the user.
+I am asking the user to enter any two numbers.
+I am storing the values entered by the user into the variables x and y.
+I am displaying values before swapping.
+after that I am Swapping the numbers with the help of temp variable and
+I am displaying the values after swapping.
+finally, I am closing the Scanner class.
+
+Testcase-1:
+
+x = 10, y = 20
+temp = x => temp = 10 (temp is hold value of x)
+x = y=> x = 20 ( now, x is holding value of y)
+y = temp => y = 10 (now, y is holding previous value of x)
+
+Testcase-2:
+
+We have different ways to swap two numbers without using third variable in Java. 
+We can use a combination of operators like (+, -), (*,/) and XOR operator.
+
+Input-1:
+
+Enter any two numbers: 26
+                       96
+Output-1:
+
+Values before Swapping,
+x=26     y=96
+Values After Swapping,
+x=96     y=26
+
+Input-2:
+
+Enter any two numbers: 126
+                       243
+Output-2:
+
+Values before Swapping,
+x=126    y=243
+Values After Swapping,
+x=243    y=126
