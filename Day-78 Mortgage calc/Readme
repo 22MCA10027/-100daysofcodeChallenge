@@ -1,0 +1,48 @@
+Java Program for Mortgage Calculator using Method:
+
+I have imported a Scanner class from the java package.
+I have created a public class named Mortgage.
+I have defined main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am declaring the variables principle, rate, time, payment as Double 
+and initializing with 0.0.
+I am asking user to Enter Principal Amount
+I am asking user to Enter Interest Rate
+I am asking user to Enter Time (in years)
+I am calculating the monthly payment.
+I am displaying the result and 
+I am closing the Scanner class.
+after that I am defining the method for Mortgage calculator.
+convert rate for month format 
+      rate = (rate/100)/12;
+convert time in the terms of months
+M = P [{r*(1+r)^n}/{(1+r)^n – 1}]
+
+Testcase:
+
+Java program to see the code for basic Mortgage calculator using method.
+The input values will be taken from the end-user and result will be displayed to the screen.
+
+It was a very basic and simple program for the Mortage calculator 
+which was only calculating the monthly payment amount.
+
+Input-1:
+
+Enter Principal Amount: 10000
+Enter Interest Rate: 2
+Enter Time (in years): 12
+
+
+Output-1:
+
+Monthly Payment = 78.1683691850912
+
+Input-2:
+
+Enter Principal Amount: 100000
+Enter Interest Rate: 2
+Enter Time (in years): 2
+
+Output-2:
+
+Monthly Payment = 4254.026336847933
