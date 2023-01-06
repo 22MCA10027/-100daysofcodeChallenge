@@ -1,0 +1,50 @@
+Java Program to Convert Miles To Kilometers:
+
+I have imported Scanner class to take input from the user.
+I have created a public class named MilestoKilometers.
+I have defined main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am asking the user to enter the number of miles.
+I am storing the miles into a variable miles as double type.
+then, double kilometers = miles * 1.6093434.
+I am displaying the Distance in Miles and
+Distance in KiloMeters.
+after that I am closing the Scanner class.
+
+Testcase:
+
+o convert miles to kilometers, as we know that 1 Mile = 1.60934 Kilometers.
+
+Therefore the formula to convert miles to kilometers is (miles * 1.60934).
+By using this formula we can convert the given miles to kilometers. 
+Both kilometers & miles are units of length. The kilometer is denoted by “km” whereas the miles are denoted by “m”.
+Kilo is usually prefixed by 1000. A mile is a unit of linear measurement which is equal to 1760 yards, which is approximately 1.609 kilometers.
+
+EX:-
+   
+1) Mile = 4
+Kilometer = 4 * 1.60934 = 6.43738 KM
+
+2) Mile = 10
+Kilometer = 10 * 1.60934 = 16.0934 KM
+
+Input-1:
+
+Enter the Miles: 10
+
+Output-1:
+
+Distance in Miles: 10.0 Miles
+Distance in KiloMeters: 16.093434 KiloMeters
+
+Input-2:
+
+Enter the Miles: 999
+
+Output-2:
+
+Distance in Miles: 999.0 Miles
+Distance in KiloMeters: 1607.7340566 KiloMeters
+
+
+
