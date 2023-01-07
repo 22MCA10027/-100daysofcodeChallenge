@@ -1,0 +1,40 @@
+Java Program to take input from the user and to Find out Students Grades using Switch Case:
+
+firstly, I have imported a Scanner class from the java package.
+I have created a public class named Gradecalculator.
+I have defined main method to begin the execution.
+The score should be in between 0-100.
+I am asking user to enter his/her score.
+I am storing the score into a variable score of int type.
+I am starting the switch case.
+if the score is >= 90 then he will get A grade.
+if the score is >=80 and <=90, then he will get B grade.
+if the score is >=70 and <=80, then he will get C grade.
+if the score is >=60 and <=70, then he will get D grade.
+if the score is >=50 and <=60, then he will get E grade.
+if the score is <50 then he / she will get F grade.
+finally, I am displaying the result.
+
+TestCase:
+
+In this example, we had taken score value directly and finding the grade based on that score. 
+Since it is checking grades only for the 1 subject therefore the score must be within the 0-100 range. 
+The break keyword is mandatory else we will always get a grade = F.
+
+Input-1:
+
+Enter your Score
+99
+
+Output-1:
+
+Your Grade is = A
+
+Input-2:
+
+Enter your Score
+26
+
+Output-2:
+
+Your Grade is = F
