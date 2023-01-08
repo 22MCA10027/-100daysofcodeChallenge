@@ -1,0 +1,41 @@
+Java Program to take input from the user and to find factors of a number:
+
+I have imported a Scanner class from the java package.
+I have created a public class named NumberFactors.
+I have created a static method findFactor and passing a number of int type.
+I am using for loop inside int i=1, i<=n and incrementing i.
+I have defined main method to begin the execution.
+I am declaring the variables number of int type and initializing with zero.
+I have created a Scanner class to take input from the user.
+I am asking user to enter a number.
+I am storing the number into a number.
+I am finding the factor of the entered number.
+finally, I am displaying the result and 
+I am closing the Scanner class.
+
+Test Case:
+
+the numbers 1, 2, 3, 4, 6 and 12 are complete divides the number 12 so they are called the factor of 12. 
+Completly divisible means when we divide the number then it gives result zero.
+
+The number which has only two factors 1 and itself, those numbers are called the prime number. 
+The numbers which have more than two factors are called composite numbers.
+
+To find the factor of a positive number “N” divide that number using natural numbers 1 to “N”. If the number is divisible by the natural number then that natural number is the factor. 
+A number N can have factors only in between 1 to N.
+
+Input-1:
+
+Enter a number:: 6
+
+Output-1:
+
+The factors of the number are:: 1       2       3       6
+
+Input-2:
+
+Enter a number:: 10
+
+Output-2:
+
+The factors of the number are:: 1       2       5       10
