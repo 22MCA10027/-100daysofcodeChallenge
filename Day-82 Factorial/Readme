@@ -1,0 +1,38 @@
+Java program to take input from the user and to find factorial method using recursion in a single line:
+
+I have imported a Scanner class from the java package.
+I have created a public class named FactorialRecursion.
+I have crerated a Recursive method to find factorial of a number.
+I am using the ternary opeerator.
+I have defined the main method to begin the execution.
+I am declaring the variables.
+number of int type and result of long type.
+I have created a Scanner class object to take input fromthe user.
+I am asking user to Enter an integer number.
+I am storing the value int o the variable number.
+I am calulating the factorial number.
+finally, I am displaying the result and closing the Scanner class.
+
+Test case-1:
+
+The general case for to find the factorial is factorial(n) = n * factorial(n-1).
+
+Test case-2:
+
+The ternary operator can be used to develop factorial method in a single line.
+
+Input-1:
+
+Enter an integer number:: 10
+
+Output-1:
+
+Factorial = 3628800
+
+Input-2:
+
+Enter an integer number:: 66
+
+Output-2:
+
+Factorial = 0
