@@ -1,0 +1,38 @@
+Java program to take input from the userand to check whether the given number is a perfect square or not:
+
+I have imported a Scanner class from the Java package.
+I have created a public class named PerfectSquare.
+I have defined a method to check the given number is a perfect number or not.
+I am calculating the square root of a number
+I am checking square root is an integer or not
+I have defined the main method to begin the execution.
+I am declaring the variables number of double type and result of boolean type as false.
+I have created a Scanner class to take input from the user.
+I am asking user to Enter any number.
+I am storing the value into the variable number.
+I am checking the number whether it is a perfect square or not and 
+I am displaying the result that the given number is a perfect square 
+or not a perfect square.
+finally, I am closing the Scanner class.
+
+Test case:
+
+The Math.sqrt() method returns the square root of the number. 
+If the result is an integer number then the given number is a perfect square 
+else it is not a perfect square.
+
+Input-1:
+
+Enter a number::8.6
+
+Output-1:
+
+Not a Perfect Square
+
+Input-2:
+
+Enter a number::625
+
+Output-2:
+
+Perfect Square
