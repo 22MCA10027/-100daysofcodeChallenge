@@ -1,0 +1,20 @@
+Simple Java Swing Example:
+
+I have imported a Swing package.
+I have created a public class named FirstSwingExample.
+I am creating instance of JFrame  
+I am creating instance of JButton  
+I am adding button in JFrame            
+  with width and 500 height  
+I am using no layout managers  
+I am making the frame visible  
+finally, I  am displaying a button.
+
+Testcase:
+
+Let's see a simple swing example where we are creating one button and adding it on the JFrame object
+inside the main() method.
+
+Output :
+
+Click
