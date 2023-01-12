@@ -1,0 +1,28 @@
+Java program to dispaly chat Frame:
+
+I have imported two sub-packages swing,awt fram java package.
+I have created a class named ChatFrame.
+I am creating instance of JFrame  
+I am creating instance of JButton  
+
+I have defined a main method to begin the execution.
+I have created an object for Jframe and printing Chat Frame.
+I am adding button in JFrame            
+   with width and 400 height 
+
+I have created two objects for Jmenu 
+   and passing with FILE and HELP.
+I have created Jpanel, Jlabel.
+ 
+I am using no layout managers  
+I am making the frame visible  
+   finally, I  am displaying a ChatFrame.
+   
+   TestCase:
+   
+  Let's see a simple swing example for displaying the chatframe where we are creating one button and adding it on the JFrame object
+inside the main() method.
+
+Output:
+
+Send Reset
