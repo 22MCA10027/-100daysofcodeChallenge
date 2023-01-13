@@ -1,0 +1,32 @@
+Java program to display LoginScreen by using Swing:
+
+I have imported two sub-packages swing,awt fram java package.
+I have imported the sub packages ActionEvent and ActionListner from the java package.
+I have created a class named LoginScreen.
+I have defined a main method to begin the execution.
+I am creating instance of JFrame  and printing "Login Screen" as title. 
+I am creating instance of JLabel and setting with the bounds 20,150, 200,50
+I am creating the instance for finalsetting the bounds of size 100,20, 100,30
+I am adding value, userNameLabel, label, paswordLabel, loginButton, text with the help of frame.add.
+I am setting the frame Size as 300, 300.
+I am setting the setLayout as null.   
+I am defining the setVisible as true.  
+finally, I am displaying the Login Screen.
+
+Testcase:
+
+The model gives the state of information about the components of swing like JButton,JPasswordField,
+ JLabel, JTextField, etc. Example: In the case of a combo box the model consisting a field
+ that determines if the box is multi-selected or single selected or not selected from the drop-down list.
+ A view shows how the component or container is displayed on the screen.
+
+Output : 
+
+Login Screen:
+
+User Name :
+Password :
+
+Input :
+
+We need to give
