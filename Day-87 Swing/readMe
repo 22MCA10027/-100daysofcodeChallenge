@@ -1,0 +1,26 @@
+Java program to display BorderLayout by using Swing:
+
+I have imported two sub-packages swing,awt fram java package.
+I have imported the sub packages ActionEvent and ActionListner from the java package.
+I have created a class named BorderLayoutDemo.
+I have defined a main method to begin the execution.
+I am printing Up,Down,Left, right and Middle by creating  instance to Jbutton.
+I have created instance to Jpanel.
+I am defining the setVisible as true.  
+finally, I am displaying the BorderLayout.
+
+Testcase:
+
+BorderLayout is the default layout for the window objects such as JFrame,
+JWindow, JDialog, JInternalFrame etc. BorderLayout arranges the components in the five regions.
+Four sides are referred to as north, south, east, and west. The middle part is called the center.
+Each region can contain only one component and is identified by a corresponding 
+constant as NORTH, SOUTH, EAST, WEST, and CENTER. 
+
+Output : 
+     
+        U
+     
+Left   Middle  Right
+        
+        Down
