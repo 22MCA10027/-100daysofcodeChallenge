@@ -1,0 +1,54 @@
+
+firstly, I am importing Scanner class to take input from the user. 
+I hava created a public class named SpecialNumber.
+I am creating a method to Check the Special number
+I am traverse through all digits of number
+I have declared variables
+compare sum and number
+method to calculate factorial of an integer
+
+I am defining the main method to begin the execution.
+I am creating the scanner class.
+take input from end-user
+check number is Special number or not
+
+Finally I am displaying the result.
+
+TestCase:
+
+145
+=> 1! + 4! + 5!
+=> 1 + 24 + 120
+=> 145
+The sum of the factorial of individual digits is the same as the original number 145. Hence, 145 is a Special number.
+
+Similarly,
+40585
+=> 4! + 0! + 5! + 8! + 5!
+=> 24 +1 + 120 + 40320 + 120
+=> 40585
+So, 40585 is also a Special number
+
+1! = 1
+So, 1 is also a Special number.
+Sometimes the Special number is also called a Strong number, Krishnamurthy number, and Peterson number.
+
+Procedure to develop a method to check the number is a Special number or not.
+
+Input-1:
+
+Enter an integer number:: 1
+
+Output-1:
+
+1 is a Special number.
+
+
+Input-2:
+
+Enter an integer number:: 145
+
+
+Output-2:
+
+145 is a Special number.
