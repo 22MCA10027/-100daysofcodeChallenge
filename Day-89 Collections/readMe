@@ -1,0 +1,26 @@
+Java program to implement Linked list by using the collection framework:
+
+I have imported util subpackage from the java package.
+I have created a class named as CollectionExample.
+I have defined main  method to begin the execution.
+I have defined LinkedList.
+I am adding the names to the list.
+I am defining theIterator and 
+finally, I am displaying the names in a list.
+
+Test Case:
+
+LinkedList implements the Collection interface.
+It uses a doubly linked list internally to store the elements.
+It can store the duplicate elements.
+It maintains the insertion order and is not synchronized. 
+In LinkedList, the manipulation is fast because no shifting is required.
+
+Input & Output:
+
+Balaji
+Aadarsh
+Kishore
+Pawan
+Vignesh
+Hari
