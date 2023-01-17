@@ -1,0 +1,23 @@
+Java program to implement Stack by using the collection framework:
+
+I have imported util subpackage from the java package.
+I have created a class named as CollectionExample.
+I have defined main  method to begin the execution.
+I have defined Stack.
+I am adding the names to the list.
+I am defining theIterator and 
+finally, I am displaying the names in a list.
+
+Test Case:
+
+The stack is the subclass of Vector. It implements the last-in-first-out data structure, 
+i.e., Stack. The stack contains all of the methods of Vector class 
+and also provides its methods like boolean push(), boolean peek(), boolean push(object o), which defines its properties.
+
+Input & Output:
+
+Aadarsh
+Kishore
+Pawan
+Vignesh
+Balaji
