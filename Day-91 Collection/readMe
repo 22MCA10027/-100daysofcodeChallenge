@@ -1,0 +1,27 @@
+java program to implement priority queue by using collection:
+
+I have imported a util sub package from the java package.
+I have created a public class named PriorityQueueCollection
+I have defined the main method to begin the execution.
+I am defining the priority queue.
+I am edding names to the queue.
+I am iterating the queue elements and after removing two elements.
+and finally, I am displaying the result.
+Test Case:
+
+The PriorityQueue class implements the Queue interface. 
+It holds the elements or objects which are to be processed by their priorities. 
+PriorityQueue doesn't allow null values to be stored in the queue.
+
+Input & Output:
+
+head:Aadarsh
+head:Aadarsh
+iterating the queue elements:
+Aadarsh
+Pawan
+Kishore
+Vignesh
+after removing two elements:
+Pawan
+Vignesh
