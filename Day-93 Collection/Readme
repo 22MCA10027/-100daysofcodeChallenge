@@ -1,0 +1,110 @@
+java program to implement TreeSet in the  collection:
+
+TreeSet :
+
+TreeSet is one of the most important implementations of the SortedSet interface in Java that uses a Tree for storage. 
+The ordering of the elements is maintained by a set using their natural ordering whether or not an explicit comparator is provided. 
+This must be consistent with equals if it is to correctly implement the Set interface.
+
+Test Case:
+
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+2
+Tree is Empty...!
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+1
+Enter element
+4
+Element added successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+1
+Enter element
+3
+Element added successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+1
+Enter element
+9
+Element added successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+1
+Enter element
+2
+Element added successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+5
+The elements are [2, 3, 4, 9]
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+2
+Enter element
+1
+Element is not present in Tree. So deletion is not possible
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+2
+Enter element
+3
+Element deleted from the Tree successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+5
+The elements are [2, 4, 9]
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+3
+First element deleted from Tree is
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+4
+Last element deleted from Tree is
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+5
+The elements are [4]
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+6
+Exit.....
+
+
+Input & Output:
+
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+1
+Enter element
+2
+Element added successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+1
+Enter element
+4
+Element added successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+1
+Enter element
+6
+Element added successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+2
+Enter element
+4
+Element deleted from the Tree successfully
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+5
+The elements are [2, 6]
+1.Add 2.Remove 3.pollFirst 4.pollLast 5.Display 6.Exit
+Enter your choice
+6
+Exit.....
