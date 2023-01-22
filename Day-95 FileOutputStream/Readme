@@ -1,0 +1,26 @@
+java program to display File Output Stream :
+
+firstly, I have imported a sub package FileOutputStream from the java package.
+I have ccreated a public class named FileExample.
+I  have  defined main method to begin the execution.
+I have created a fileoutputstream object
+I have transfered this string to the files
+We will write the string by writing each
+character one by one to file
+by doing fout.close() all the changes which have
+been made till now in RAM had been now saved to the hard disk.
+
+Test Case:
+
+This will enable us to write data to the file. 
+Then, to write data to the file, we should write data using the FileOutputStream as,
+fout.write();
+Then we should call the close() method to close the fout file.
+
+Input & output:
+
+Hi to all
+
+this is Hari Krishna
+
+I am from Andhra Pradesh...TATA
