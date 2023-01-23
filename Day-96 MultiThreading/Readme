@@ -1,0 +1,32 @@
+java program to implement multithreading by using synchronization in Banking:
+
+I have created a public class named Banking.
+I have defined a main method to begin the execution.
+I have crerated an instance for Withdraw and Deposit and 
+I have defined two objects w and d.
+  if(balance>wd)
+I am displaying the Withdrawl amount and
+Balance after withdrawl
+else
+Insufficient Balance.
+and also
+if(balance>0)
+I am displaying the deposited amount 
+Balance after deposit
+Negative amount can't be deposit 
+
+Test case:
+
+Multi-threaded programs may often come to a situation where multiple threads try to access 
+the same resources and finally produce erroneous and unforeseen results. 
+
+So it needs to be made sure by some synchronization method that only one thread can access the resource at a given point in time.
+Java provides a way of creating threads and synchronizing their tasks using synchronized blocks. 
+Synchronized blocks in Java are marked with the synchronized keyword. 
+
+Input & Output:
+
+Withdrawl amount is 2000
+Balance after withdrawl 98000
+deposited amount is 6000
+Balance after deposit 104000
