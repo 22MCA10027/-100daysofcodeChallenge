@@ -1,0 +1,25 @@
+java program to create a regestration form using EventHandling:
+
+Event Handling:
+
+An event can be defined as changing the state of an object or behavior by performing actions. 
+Actions can be a button click, cursor movement, keypress through keyboard or page scrolling, etc. 
+The java.awt.event package can be used to provide various event classes. 
+Classification of Events:
+1.Foreground Events
+2.Background Events
+
+here, I am importing swing and awt sub packages from the java package.
+I have creeated a class named MyFrame and it extends with JFrame.
+
+I have defined the Components of the Form.
+and constructor, to initialize the components with default values.
+method actionPerformed
+to get the action performed
+by the user and act accordingly
+I have  created a main class named BankRegestration.
+I have created instance for MyFrame and I am calling from here.
+
+Then I have registered the buttons with ActionListener and also the frame objects implements the ActionListener interface.
+3>Later if the all details required in Bank registration form are filled, then after clicking submit button, then those are set to one Text Field with correponding text label.
+4>Then reset button is pressed, the entered information is cleared and again new form is generated.
