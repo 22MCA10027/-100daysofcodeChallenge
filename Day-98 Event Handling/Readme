@@ -1,0 +1,55 @@
+Java program to create a basic calculator by using the Event Handling
+
+Basic Components of a GUI:
+
+1.Pointer: It is a symbol that appears on the display screen. It can be moved to select commands and objects.
+2.Pointing device: It allows you move the pointer and select objects on the screen, e.g. mouse or trackball.
+3.Icons: It refers to small images on the display screen that represent commands, files, windows etc. Using pointer and pointing device,
+you can execute these commands.
+4.Desktop: It is the display screen that contains the icons.
+
+Explanation:
+
+I have created a main class named as Calculator and 
+I have defined the main method to begin the execution.
+I have  create a frame
+I have create a textfield
+I have store operator and operands
+I have default constructor
+again, I have create a frame
+I have set look and feel
+I have created an object of class
+and create a textfield
+set the textfield to non editable
+// create number buttons and some operators
+        // create number buttons
+ // equals button
+        // create operator buttons
+
+   // create . button
+
+      // create a panel
+        // add action listeners
+ 
+        // add elements to panel
+  // set Background of panel
+        // add panel to frame
+ // if the value is a number
+// if operand is present then add to second no
+
+            // set the value of text
+   // clear the one letter
+            // set the value of text
+            // store the value in 1st
+                         
+   // set the value of text
+            // convert it to string
+            // if there was no operand
+            // else evaluate
+                // store the value in 1st
+ // convert it to string
+                // place the operator
+                // make the operand blank
+            // set the value of text
+            
+   at the end I am displaying the calculator.
