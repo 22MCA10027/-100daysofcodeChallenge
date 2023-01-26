@@ -1,0 +1,50 @@
+Java program to implement ByteArray InoutStream:
+
+The ByteArrayInputStream class of the java.io package can be used to read an array of input data (in bytes).
+
+It extends the InputStream abstract class.
+
+Explanation:
+
+I have imported sub packages io, util from the java package.
+I have created a class named ByteStreamStream.
+I have defined main method to begin the execution.
+I have created a Scanner class to take input from the user.
+I am asking the user to enter a string.
+finally, I am converting the input string into byte array by using getBytes()
+and I am displaying it.
+
+TEST CASE 1:
+
+Enter some string
+balaji
+Converting input string into byte array by using getBytes()
+balaji
+BALAJI
+
+
+Enter some string
+Aadarsh
+Converting input string into byte array by using getBytes()
+Aadarsh
+AADARSh
+
+Enter some string
+pAvAn
+Converting input string into byte array by using getBytes()
+pAvAn
+PAVAN
+
+TEST CASE 2 :
+Enter some string
+63362
+Converting input string into byte array by using getBytes()
+63362
+63362
+
+TEST CASE 3 :
+Enter some string
+@32bs%
+Converting input string into byte array by using getBytes()
+@32bs%
+@32BS%
