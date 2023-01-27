@@ -1,0 +1,66 @@
+Java program to implement ByteArray outputStream:
+
+The ByteArrayOutputStream class of the java.io package can be used to read an array of Output data (in bytes).
+
+It extends the OutputStream abstract class.
+
+Java ByteArrayOutputStream Class :
+
+Java ByteArrayOutputStream class is used to write common data into multiple files. In this stream,
+ the data is written into a byte array which can be written to multiple streams later.
+
+The ByteArrayOutputStream holds a copy of data and forwards it to multiple streams.
+
+The buffer of ByteArrayOutputStream automatically grows according to data.
+
+public class ByteArrayOutputStream extends OutputStream
+
+Explanation:
+
+I have imported sub packages io from the java package.
+I have created a class named ByteOutputStream.
+I have defined main method to begin the execution.
+I have created an instance of ByteArrayOutputStream.
+finally, I am displaying the result as follows:
+
+Buffer as a string
+This should end up in the array
+Into array
+This should end up in the array
+Toan OutputStream()
+Doing a reset
+XXX
+
+Test case-1:
+
+Buffer as a string
+This should end up in the array
+Into array
+This should end up in the array
+Toan OutputStream()
+Doing a reset
+YYY
+
+Test case-2:
+
+Buffer as a string
+This should end up in the array
+Into array
+This should end up in the array
+Toan OutputStream()
+Doing a reset
+bbb
+
+Test case-3:
+
+Buffer as a string
+This should end up in the array
+Into array
+This should end up in the array
+Toan OutputStream()
+Doing a reset
+HHH
+
+Contents that written into test.txt are :
+
+This should end up in the array
